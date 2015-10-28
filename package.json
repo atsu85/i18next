@@ -30,7 +30,7 @@
     "underscore": ">=0.2.1",
     "phantomjs": "^1.9.16"
   },
-  "repository": "https://github.com/i18next/i18next/",
+  "repository": "https://github.com/atsu85/i18next/",
   "scripts": {
     "test": "grunt && grunt testacular:ci"
   }
